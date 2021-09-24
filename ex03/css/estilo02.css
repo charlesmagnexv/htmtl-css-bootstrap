@@ -1,0 +1,11 @@
+@media (max-width: 600px)
+{
+	.dobra-h{
+		height: 100vh;
+	}
+  .dobra-h button
+   {
+    width:55vw;
+	height:25vw;
+   }
+}

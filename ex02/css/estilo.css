@@ -1,0 +1,28 @@
+header a{
+	text-decoration: underline;
+}
+header h1{
+	font-size: 6vw;
+}
+header h3{
+	padding-right:8.5vw;
+    font-size: 3vw;
+}
+.planofundo{
+	background-color: rgb(255,128,0);
+}
+.linha{
+border-color: green; 
+}
+.botao{
+	box-shadow: 3px 3px 7px rgb(0,0,0);
+}
+.bfim{
+	background-color: rgb(255,128,0);
+}
+.linha2{
+	border-color: black;
+}
+.table-bordered{
+	border-color: rgb(0,0,0);
+}

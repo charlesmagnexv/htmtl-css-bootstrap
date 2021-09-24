@@ -1,0 +1,19 @@
+*{
+    font-family: serif;
+}
+.bg-black{
+    background-color: black;/*para alterar a cor do menu*/
+}
+.ajusfonte{/*ajustei a fonte da primeira section do main*/
+    font-family: 'Times New Roman', Times, serif!important;
+    font-size: 18px;
+}
+/*hr{
+    border-color: dark;
+}*/
+.alinhamento{/*para alinhas os cards*/
+    display:flex;/*faz com que eu possa usar o layout flexível da flexbox*/
+    /*flex-direction:row;/*dispõe tudo em linha horizontal*/
+    justify-content: center;/*centraliza os itens na horizontal*/
+    /*align-items: center;/*centraliza-os na verticcal também*/
+}

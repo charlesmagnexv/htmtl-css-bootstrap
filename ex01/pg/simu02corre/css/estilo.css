@@ -1,0 +1,68 @@
+*{
+	font-family: serif;
+}
+#cabecalho{
+	height: 70vh;
+	/*max-height e min-height podem ser usados para design responsivo também*/
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+
+	background-image: url('../img/pf.jpeg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color:#fff;
+}
+#cabecalho h1{
+	font-size: 3.5em;
+}
+a{
+	border-radius: 0!important;/*algo no bootstrap estava mais específico do que este*/
+}
+#cabecalho .btn-outline-primary{
+	color: #fff;
+	border-color:#fff;
+}
+.btn-primary{
+	background-color: rgb(56,44,109);
+	border-color: rgb(56,44,109);
+}
+#emp{
+	
+
+
+	background-image: url('../img/pf.jpeg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+#emp .container{
+	height: 35vh;
+	/*max-height e min-height podem ser usados para design responsivo também*/
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+#conhecaEmp .container{
+	height: 45vh;
+	/*max-height e min-height podem ser usados para design responsivo também*/
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	width: 60vw;
+}
+.img-fluid{
+	width:100vw;
+}
+.bg-dark{
+	background-color: rgb(0,0,0)!important;
+}
+.btn-m{
+	border-radius: 0 !important;
+	width:10em;
+}

@@ -1,0 +1,12 @@
+.im{
+	padding-top: 115px;
+}
+*{
+	font-family: sans-serif;
+}
+.bg-black{
+	background-color: black;
+}
+.bg-success{
+	background-color: rgb(25, 202, 2);
+}
